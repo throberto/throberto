@@ -1,5 +1,5 @@
 ## :wave: Hello World, I'm Thiago Roberto
-**:office: I currently work as a back-end developer at [@perfect-flight](https://github.com/perfect-flight)**.
+**:office: I currently work as a backend software engineer at [@perfect-flight](https://github.com/perfect-flight)**.
 
 <ul>
   <li>:computer: Coding daily with javascript;</li>
