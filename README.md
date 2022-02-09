@@ -17,7 +17,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-2088FF?style=flat-square&logo=go&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -30,7 +31,7 @@
 </p>
 
 <ul>
-  <li>:computer: Coding daily with javascript and python. Golang is my current study language;</li>
+  <li>:computer: Coding daily with javascript and python. C# is my current study language;</li>
   <li>:triangular_ruler: Improving me in the architecture of distributed systems using <a href="https://github.com/aws">aws services</a>;</li>
   <li>:earth_americas: Active in the <a href="https://github.com/serverless">serverless framework</a> community;</li>
   <li>:house: I live in São Paulo, Brazil;</li>
