@@ -1,5 +1,5 @@
 ## :wave: Hello World, I'm Thiago Roberto
-**:office: I currently work as a backend software engineer at [@bankly](https://github.com/acesso-bankly)**.
+**:office: I currently work as a backend software engineer at [@tempoinc](https://github.com/tempoinc)**.
 
 <h3>Things I code with</h3>
 <p>
@@ -31,7 +31,7 @@
 </p>
 
 <ul>
-  <li>:computer: Coding daily with javascript and python. C# is my current study language;</li>
+  <li>:computer: Coding daily with C#, typescript and python.</li>
   <li>:triangular_ruler: Improving me in the architecture of distributed systems using <a href="https://github.com/aws">aws services</a>;</li>
   <li>:earth_americas: Active in the <a href="https://github.com/serverless">serverless framework</a> community;</li>
   <li>:house: I live in São Paulo, Brazil;</li>
